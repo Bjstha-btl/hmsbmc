@@ -23,7 +23,7 @@ function Navbar() {
           <div className="flex justify-between items-center h-16">
             <Link to="/" className="flex items-center space-x-2">
               <Home className="h-6 w-6 text-indigo-600" />
-              <span className="text-xl font-bold text-gray-800">HMS</span>
+              <span className="text-xl font-bold text-gray-800">Hostel Management System</span>
             </Link>
             
             <div className="flex space-x-4">
@@ -46,7 +46,7 @@ function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Home className="h-6 w-6 text-indigo-600" />
-            <span className="text-xl font-bold text-gray-800">HMS</span>
+            <span className="text-xl font-bold text-gray-800">Hostel Management System</span>
           </Link>
           
           <div className="flex items-center space-x-8">
